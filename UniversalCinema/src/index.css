@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+main{
+    color: white;
+    flex-direction:row;
+}
+#mainDivImg{
+    background: url(../../UniversalCinema/src/assets/images/mainImg.jpg);
+}
